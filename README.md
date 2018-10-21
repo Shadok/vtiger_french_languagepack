@@ -1,8 +1,7 @@
 # vtiger_french_languagepack
 French language pack for vTiger
 
-Last update : 2018-03-03
-Version 2.4.0
+Last update : 2018-03-03, version 2.4.0
 
 For vTiger from 6.1.0 to 7.*
 
