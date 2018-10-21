@@ -2,6 +2,8 @@
 French language pack for vTiger
 
 Last update : 2018-03-03
+Version 2.4.0
+
 For vTiger from 6.1.0 to 7.*
 
 Download this repo as zip and install it on your vTiger instance as is.
