@@ -1,0 +1,91 @@
+<?php
+/*+**********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.  
+ ************************************************************************************/
+$languageStrings = array(
+	'Products'                     => 'Produits'                    , 
+	'SINGLE_Products'              => 'Produit'                     , 
+	'LBL_ADD_RECORD'               => 'Ajouter un produit'          , 
+	'LBL_RECORDS_LIST'             => 'Liste des produits'               , 
+	'LBL_PRODUCT_INFORMATION'      => 'Informations'                , 
+	'LBL_IMAGE_INFORMATION'        => 'Image produit'  , 
+	'LBL_STOCK_INFORMATION'        => 'Stock :'                     , 
+	'LBL_MORE_CURRENCIES'          => 'Plus de devises'             , 
+	'LBL_PRICES'                   => 'Prix des produits'           , 
+	'LBL_PRICE'                    => 'Prix'                        , 
+	'LBL_RESET_PRICE'              => 'Prix remisé'                , 
+	'LBL_RESET'                    => 'Remise'                      , 
+	'LBL_ADD_TO_PRICEBOOKS'        => 'Ajouter à la grille tarifaire'           , 
+	'Product No'                   => 'Produit N°'                 , 
+	'Part Number'                  => 'Ref'                         , 
+	'Product Active'               => 'Actif'                       , 
+	'Manufacturer'                 => 'Fabriquant'                  , 
+	'Product Category'             => 'Catégorie'                  , 
+	'Website'                      => 'Site web'                    , 
+	'Mfr PartNo'                   => 'Modèle'                     , 
+	'Vendor PartNo'                => 'Ref fournisseur'             , 
+	'Usage Unit'                   => 'Unité de vente'             , 
+	'Handler'                      => 'Manutention'                 , 
+	'Reorder Level'                => 'Niveau de réapprovisionnement', 
+	'Tax Class'                    => 'Type TVA'                    , 
+	'Serial No'                    => 'N° série'                  , 
+	'Qty In Stock'                 => 'Qté en stock'               , 
+	'Product Sheet'                => 'Fiche produit'               , 
+	'Qty In Demand'                => 'Qté demandée'              , 
+	'GL Account'                   => 'Code comptable'              , 
+	'Product Image'                => 'Image produit'               , 
+	'Unit Price'                   => 'Prix unitaire'               , 
+	'Commission Rate'              => 'Commission (%)'              , 
+	'Qty/Unit'                     => 'Qté/Unité'                 , 
+	'--None--'                     => '--Vide--'                   , 
+	'Hardware'                     => 'Matériel'                   , 
+	'Software'                     => 'Logiciel'                    , 
+	'CRM Applications'             => 'Applications CRM'            , 
+	'300-Sales-Software'           => '300-Ventes-Logiciel'          , 
+	'301-Sales-Hardware'           => '301-Ventes-Matériel'          , 
+	'302-Rental-Income'            => '302-Location-Revenu'           , 
+	'303-Interest-Income'          => '303-Intérêts-Revenu'         , 
+	'304-Sales-Software-Support'   => '304-Ventes-Logiciel-Support'  , 
+	'305-Sales Other'              => '305-Autres ventes'             , 
+	'306-Internet Sales'           => '306-Ventes internet'          , 
+	'307-Service-Hardware Labor'   => '307-Service-Quincaillerie'  , 
+	'308-Sales-Books'              => '308-Ventes-Livres'             , 
+	'Box'                          => 'Boîte'                      , 
+	'Carton'                       => 'Carton'                      , 
+	'Caton'                        => 'Palette'                     , 
+	'Dozen'                        => 'Douzaine'                    , 
+	'Each'                         => 'Unité'                      , 
+	'Hours'                        => 'Heures'                      , 
+	'Impressions'                  => 'Impressions'                 , 
+	'Lb'                           => 'Kg'                          , 
+	'M'                            => 'M'                           , 
+	'Pack'                         => 'Lot'                         , 
+	'Pages'                        => 'Pages'                       , 
+	'Pieces'                       => 'Pièces'                     , 
+	'Reams'                        => 'Rames'                       , 
+	'Sheet'                        => 'Fiche'                       , 
+	'Spiral Binder'                => 'Classeur en spirale'            , 
+	'Sq Ft'                        => 'm²'                         , 
+	'LBL_CONVERSION_RATE'          => 'Taux de conversion'             ,
+	'LBL_PRODUCTSMOD_DISABLED'	 => 	'Activer le module Produits pour afficher les produits' ,
+	
+	// 7.1
+	'LBL_SHOW_BUNDLE_IN_INVENTORY' => 'Afficher les éléments du lot dans les factures/devis/commandes client/bons de commande',
+	'LBL_BUNDLE_TOTAL_COST' => 'Coût total du lot',
+	'LBL_UPDATE_BUNDLE_PRICE' => 'Mettre le prix du lot à jour',
+	'LBL_PRODUCT_NAME' => 'Nom du produit',
+	'LBL_PRICE_QUANTITY' => 'Prix x quantité',
+);
+
+$jsLanguageStrings = array(
+	// 7.1
+	'JS_SUB_PRODUCTS_WILL_BE_SHOWN_IN_INVENTORY' => 'Les sous-produits seront affichés dans l\'inventaire',
+	'JS_SUB_PRODUCTS_WILL_NOT_BE_SHOWN_IN_INVENTORY' => 'Les sous-produits ne seront pas affichés dans l\'inventaire',
+	'JS_SUCCESSFULLY_CHANGED_BUNDLE_COST' => 'Changement du coût total du lot réussi',
+	'JS_DELETION_OR_IN_ACTIVATION_CHILD_PRODUCT_MESSAGE' => 'Ce produit fait partie d\'un lot. Le prix du lot reste inchangé lorsqu\'un élément du lot est supprimé ou désactivé. Etes-vous sûr de vouloir continuer ?',
+);

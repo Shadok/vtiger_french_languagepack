@@ -1,0 +1,12 @@
+<?xml version='1.0'?>
+<module>
+	<exporttime>2018-03-03 12:25:41</exporttime>
+	<name>Français (pack de langue)</name>
+	<label>Français (pack de langue)</label>
+	<prefix>fr_fr</prefix>
+	<type>language</type>
+	<dependencies>
+		<vtiger_version>6.1.0</vtiger_version>
+		<vtiger_max_version>7.*</vtiger_max_version>
+	</dependencies>
+</module>
